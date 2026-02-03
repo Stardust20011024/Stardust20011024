@@ -1,16 +1,21 @@
-## Hi there 👋
+# 自我介绍
+👋 Hello！我是平非凡 
 
-<!--
-**Stardust20011024/Stardust20011024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 数学 / 统计 / 数据科学背景，对概率建模、数值方法和机器学习感兴趣。
 
-Here are some ideas to get you started:
+🔬 我目前主要关注的方向包括：
+- 蒙特卡洛方法与数值金融
+- 统计学习与风险建模（如逻辑斯谛回归）
+- Python / PyTorch 的高性能计算与工程实现
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 技术栈：
+- Python, R
+- PyTorch, NumPy, SciPy
+- 统计建模、机器学习、数据分析
+
+📌 这个 GitHub 主要用于：
+- 课程与个人项目的整理
+- 数值方法与金融建模实验
+- 学习过程中的代码记录与总结
+
+📫 欢迎交流与讨论！
